@@ -16,5 +16,6 @@
         "psr-4": {
             "Hubstaff\\" : "src/"
         }
-    }
+    },
+    "minimum-stability":"stable"
 }
