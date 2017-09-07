@@ -1,0 +1,20 @@
+{
+    "name": "techsemicolon/hubstaff",
+    "description": "A package with Hubstaff API integration",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mihir",
+            "email": "mihirbhende1201@gmail.com"
+        }
+    ],
+    "require": {
+        "curl/curl": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hubstaff\\" : "src/"
+        }
+    }
+}
