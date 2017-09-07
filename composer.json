@@ -3,6 +3,7 @@
     "description": "A package for Hubstaff API integration",
     "homepage": "https://github.com/techsemicolon/hubstaffphp",
     "type": "library",
+    "version" : "0.0.1",
     "keywords": [
         "php",
         "hubstaff",
