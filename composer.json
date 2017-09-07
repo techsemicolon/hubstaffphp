@@ -18,7 +18,6 @@
         }
     ],
     "require": {
-        "php": "^7.0",
         "ext-curl": "*",
         "curl/curl": "^1.8"
     },
