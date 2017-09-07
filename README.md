@@ -7,7 +7,7 @@ This is a PHP package which integrates hubstaff API and gives you an efficient w
 Via Composer
 
 ``` bash
-$ composer require mihirbhende1201/hubstaff
+$ composer require techsemicolon/hubstaff
 ```
 
 ## Getting your API credentials
