@@ -1,15 +1,24 @@
 {
     "name": "techsemicolon/hubstaff",
-    "description": "A package with Hubstaff API integration",
-    "type": "composer-plugin",
+    "description": "A package for Hubstaff API integration",
+    "homepage": "https://github.com/techsemicolon/hubstaffphp",
+    "type": "library",
+    "keywords": [
+        "php",
+        "hubstaff",
+        "api",
+        "integration"
+      ],
     "license": "MIT",
     "authors": [
         {
-            "name": "mihir",
-            "email": "mihirbhende1201@gmail.com"
+            "name": "Mihir Bhende",
+            "email": "tech.semicolon@gmail.com"
         }
     ],
     "require": {
+        "php": "^7.0",
+        "ext-curl": "*",
         "curl/curl": "^1.8"
     },
     "autoload": {
